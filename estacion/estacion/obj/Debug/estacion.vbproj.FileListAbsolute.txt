@@ -1,0 +1,25 @@
+C:\Users\Luis\source\repos\estacion\estacion\bin\Debug\estacion.exe.config
+C:\Users\Luis\source\repos\estacion\estacion\bin\Debug\estacion.exe
+C:\Users\Luis\source\repos\estacion\estacion\bin\Debug\estacion.pdb
+C:\Users\Luis\source\repos\estacion\estacion\bin\Debug\estacion.xml
+C:\Users\Luis\source\repos\estacion\estacion\obj\Debug\estacion.vbproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\estacion\estacion\obj\Debug\estacion.MainForm.resources
+C:\Users\Luis\source\repos\estacion\estacion\obj\Debug\estacion.Resources.resources
+C:\Users\Luis\source\repos\estacion\estacion\obj\Debug\estacion.vbproj.GenerateResource.cache
+C:\Users\Luis\source\repos\estacion\estacion\obj\Debug\estacion.vbproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\estacion\estacion\obj\Debug\estacion.exe
+C:\Users\Luis\source\repos\estacion\estacion\obj\Debug\estacion.xml
+C:\Users\Luis\source\repos\estacion\estacion\obj\Debug\estacion.pdb
+C:\Users\Luis\source\repos\estacion\estacion\obj\Debug\estacion.exe.config
+C:\Users\Braulio Angulo\Downloads\estacion\estacion\bin\Debug\estacion.exe.config
+C:\Users\Braulio Angulo\Downloads\estacion\estacion\bin\Debug\estacion.exe
+C:\Users\Braulio Angulo\Downloads\estacion\estacion\bin\Debug\estacion.pdb
+C:\Users\Braulio Angulo\Downloads\estacion\estacion\bin\Debug\estacion.xml
+C:\Users\Braulio Angulo\Downloads\estacion\estacion\obj\Debug\estacion.vbproj.AssemblyReference.cache
+C:\Users\Braulio Angulo\Downloads\estacion\estacion\obj\Debug\estacion.MainForm.resources
+C:\Users\Braulio Angulo\Downloads\estacion\estacion\obj\Debug\estacion.Resources.resources
+C:\Users\Braulio Angulo\Downloads\estacion\estacion\obj\Debug\estacion.vbproj.GenerateResource.cache
+C:\Users\Braulio Angulo\Downloads\estacion\estacion\obj\Debug\estacion.vbproj.CoreCompileInputs.cache
+C:\Users\Braulio Angulo\Downloads\estacion\estacion\obj\Debug\estacion.exe
+C:\Users\Braulio Angulo\Downloads\estacion\estacion\obj\Debug\estacion.xml
+C:\Users\Braulio Angulo\Downloads\estacion\estacion\obj\Debug\estacion.pdb
